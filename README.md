@@ -10,12 +10,7 @@ Welcome to my GitHub profile! I'm passionate about technology, software developm
 - ⚡ I love exploring new frameworks and tools
 
 ## 🛠️ Technologies & Tools
-
-- Languages: Python
-- Frameworks: React, Node.js, Django, Rest api
-- DevOps: Docker, GitHub Actions, CI/CD, Kubernetes
-- Cloud: AWS, Azure (beginner)
-- Databases: MySQL, MongoDB, PostgreSQL
+https://www.django-rest-framework.org/ 
 
 ## 📫 How to reach me
 
