@@ -1,16 +1,28 @@
-                                                                                                  ### Hello, I am Akshaya Suresh
+# Hi there, I'm Akshaya Suresh! 👋
 
-                                                                                         I'm currently working as a Python Developer.
+Welcome to my GitHub profile! I'm passionate about technology, software development, and continuous learning. Here you'll find a collection of my projects, experiments.
 
-<!--
-**akshayasureshh/akshayasureshh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
 
-Here are some ideas to get you started:
+- 💼 Interested in software development, automation, and problem solving
+- 🌱 Currently learning: Cloud technologies, DevOps, and advanced algorithms
+- 🤝 Open to collaborating on interesting open-source projects
+- ⚡ I love exploring new frameworks and tools
 
-🔭 I’m currently working as a Python developer.
-🌱 I’m currently learning new technologies and expanding my skill set.
-👯 I’m looking to collaborate on interesting Python projects or any innovative software development initiatives.
-🤔 I’m looking for help with staying updated on the latest industry trends and best practices in Python development.
-💬 Ask me about Python programming, web development, or anything related to software engineering.
-📫 How to reach me: akshayasuresh5421@gmail.com,https://linkedin.com/in/akshaya-suresh-7664a0276
-😄 Pronouns:  she/her, they/them
+## 🛠️ Technologies & Tools
+
+- Languages: Python
+- Frameworks: React, Node.js, Django, Rest api
+- DevOps: Docker, GitHub Actions, CI/CD, Kubernetes
+- Cloud: AWS, Azure (beginner)
+- Databases: MySQL, MongoDB, PostgreSQL
+
+## 📫 How to reach me
+
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/akshaya-suresh-7664a0276)
+
+  
+
+---
+
+Thanks for visiting! 🚀
