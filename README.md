@@ -10,7 +10,8 @@ Welcome to my GitHub profile! I'm passionate about technology, software developm
 - ⚡ I love exploring new frameworks and tools
 
 ## 🛠️ Technologies & Tools
-[https://www.django-rest-framework.org/ ](https://www.django-rest-framework.org/)
+![django](https://github.com/user-attachments/assets/13cbc7df-ea51-406f-a058-d62a73fcefd5)[https://www.django-rest-framework.org/ ](https://www.django-rest-framework.org/)
+
 
 ## 📫 How to reach me
 
