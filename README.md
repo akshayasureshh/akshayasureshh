@@ -9,10 +9,6 @@ Welcome to my GitHub profile! I'm passionate about technology, software developm
 - 🤝 Open to collaborating on interesting open-source projects
 - ⚡ I love exploring new frameworks and tools
 
-## 🛠️ Technologies & Tools
-
-
-
 ## 📫 How to reach me
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/akshaya-suresh-7664a0276)
