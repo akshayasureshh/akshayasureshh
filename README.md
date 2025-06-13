@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, I am Akshaya Suresh
+
+I'm currently working as a Python Developer.
 
 <!--
 **akshayasureshh/akshayasureshh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
